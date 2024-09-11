@@ -1,4 +1,4 @@
-# username-finder
+# Username OSINT
 <h1>Unmasking Identities through Usernames</h1>
  <p>In the digital age, usernames are more than just simple labels used to log into websites — they're a reflection of personal identities, habits, and even clues to someone's online footprint. Open Source Intelligence (OSINT) is the practice of collecting and analyzing publicly available information, and one of its key elements is tracking usernames. This blog post explores how OSINT experts leverage usernames to uncover valuable information and why it's an essential skill in the world of cyber investigations.</p>
  <h2>What is Username OSINT?</h2>
@@ -34,6 +34,7 @@
         <li><strong>UserRecon:</strong> UserRecon is a Python-based OSINT tool for finding a username across more than 200 platforms.</li>
         <li><strong>Maigret:</strong> Maigret is a sophisticated OSINT tool that can search for a username across 500+ platforms, including social media, forums, and obscure websites.</li>
         <li><strong>IntelX:</strong> IntelX offers a username search function as part of its broad set of OSINT tools, tracking usernames, emails, and phone numbers.</li>
+     <h1>Written by osint expert</h1>
         <li><strong>Spiderfoot:</strong> Spiderfoot is an automated OSINT tool that can be configured to search for usernames, emails, and other identifiers across a range of websites.</li>
     </ul>
 <h2>Privacy and Ethical Considerations</h2>
