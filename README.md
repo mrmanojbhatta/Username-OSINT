@@ -39,4 +39,4 @@
     </ul>
 <h2>Privacy and Ethical Considerations</h2>
     <p>While OSINT techniques, including username tracking, are perfectly legal as they rely on public information, there are ethical boundaries to consider. Always respect the privacy of individuals and ensure you have legitimate reasons for conducting investigations. Unethical or illegal use of OSINT could lead to severe legal consequences.</p>
-<h1>Written by OSINT Expert</h1>
+<h1>Written by Manoj Bhatta</h1>
