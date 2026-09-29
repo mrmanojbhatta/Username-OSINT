@@ -1,0 +1,1 @@
+{"workers":8,"timeout":10,"retries":2,"delay":0.5,"cache_ttl":86400,"evidence_max_bytes":262144,"user_agent":"MANOJ-USERNAME-OSINT/4.0 (+public-osint-research)","database":"cases/osint.sqlite3","evidence_dir":"cases"}
